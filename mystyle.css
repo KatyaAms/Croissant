@@ -1,0 +1,12 @@
+body {
+  background-color: #f7f6e7;
+}
+h1,
+p,
+a {
+  text-align: center;
+}
+
+img {
+  max-width: 600px;
+}
