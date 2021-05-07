@@ -1,12 +1,23 @@
 body {
-  background-color: #f7f6e7;
+  background-color: #f4eee8;
+  padding: 20px 30px;
 }
+
 h1,
 p,
 a {
   text-align: center;
+  color: #325288;
 }
 
 img {
   max-width: 600px;
+}
+footer {
+  text-align: center;
+}
+
+footer a {
+  margin: 0 10px;
+  color: #114e60;
 }
